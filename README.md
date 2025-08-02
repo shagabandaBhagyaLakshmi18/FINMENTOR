@@ -50,3 +50,10 @@ Powered by IBM Granite LLM for natural language understanding
 Built-in NLP support
 Responds gracefully to off-topic/irrelated questions
 Covers real financial concerns (scams, loans, savings UPI, etc.)
+
+Future Scope
+WhatsApp or mobile app integration
+Speech-to-text input for voice-driven queries
+Automatic monthly report generation
+Region-specific financial policy updates
+Multilingual expansion with Watson Language Translator
