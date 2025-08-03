@@ -1,4 +1,4 @@
-# FinMentor: An AI-Powered Financial Literacy Assistant 
+# Digital Financial Literacy AI Agent
 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
