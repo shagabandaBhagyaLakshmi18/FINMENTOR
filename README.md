@@ -57,29 +57,7 @@ An AI agent trained using IBM Watsonx.ai that delivers reliable, document-based 
 - Covers real financial concerns (scams, loans, savings, UPI, etc.)
 
 
-## 🚀 Future Scope
-
-- WhatsApp or mobile app integration
-- Speech-to-text input for voice-driven queries
-- Automatic monthly report generation
-- Region-specific financial policy updates
-- Multilingual expansion with Watson Language Translator
-
-
-## 🔗 Useful Links
-
-- [IBM Cloud Lite](https://cloud.ibm.com)
-- [IBM Watsonx.ai](https://www.ibm.com/products/watsonx-ai)
-- [RBI Official Website](https://www.rbi.org.in)
-- [IBM SkillsBuild](https://skillsbuild.org)
-
-## 📜 License
-
-This project is licensed under the MIT Licens
-
----
-
-## 📷 Screenshots
+##  📷 Screenshots
 
 ### 🛠 Setting up..
 ![Setting up](setup.png)
@@ -97,6 +75,11 @@ This project is licensed under the MIT Licens
 
 ---
 
+### 📚 Resources List
+![Resources List](Resources%20List..png)
+
+---
+
 ### 🧰 Tools Used & Testing
 ![Tools Used & Testing](Tools%20Used%20&%20Testing..png)
 
@@ -104,6 +87,32 @@ This project is licensed under the MIT Licens
 
 ### 🚀 Deployment
 ![Deployment](deployment.jpg)
+
 ---
 
- Created during the IBM SkillsBuild Internship 2025 in collaboration with EDUNET Foundation by Shagabanda Bhagya Lakshmi.
+## 🚀 Future Scope
+
+- WhatsApp or mobile app integration
+- Speech-to-text input for voice-driven queries
+- Automatic monthly report generation
+- Region-specific financial policy updates
+- Multilingual expansion with Watson Language Translator
+
+---
+
+## 🔗 Useful Links
+
+- [IBM Cloud Lite](https://cloud.ibm.com)
+- [IBM Watsonx.ai](https://www.ibm.com/products/watsonx-ai)
+- [RBI Official Website](https://www.rbi.org.in)
+- [IBM SkillsBuild](https://skillsbuild.org)
+
+---
+
+## 📜 License
+
+This project is licensed under the MIT License.
+
+---
+
+Created during the IBM SkillsBuild program in collaboration with EDUNET Foundation by Shagabanda Bhagya Lakshmi
