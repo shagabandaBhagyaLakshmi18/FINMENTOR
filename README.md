@@ -56,6 +56,7 @@ An AI agent trained using IBM Watsonx.ai that delivers reliable, document-based 
 - Responds gracefully to off-topic/irrelated questions
 - Covers real financial concerns (scams, loans, savings, UPI, etc.)
 
+
 ## 🚀 Future Scope
 
 - WhatsApp or mobile app integration
@@ -76,6 +77,33 @@ An AI agent trained using IBM Watsonx.ai that delivers reliable, document-based 
 
 This project is licensed under the MIT Licens
 
+---
+
+## 📷 Screenshots
+
+### 🛠 Setting up..
+![Setting up](setup.png)
+
+---
+
+### 📜 Agent Instructions
+![Agent Instructions](Agent%20instructions..png)
+![Agent Instructions 2](Agent%20instructions2.png)
+
+---
+
+### ❓ Quick Start Questions
+![Quick Start Questions](Questions.png)
+
+---
+
+### 🧰 Tools Used & Testing
+![Tools Used & Testing](Tools%20Used%20&%20Testing..png)
+
+---
+
+### 🚀 Deployment
+![Deployment](deployment.jpg)
 ---
 
  Created during the IBM SkillsBuild Internship 2025 in collaboration with EDUNET Foundation by Shagabanda Bhagya Lakshmi.
