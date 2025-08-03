@@ -1,4 +1,4 @@
-# FinMentor_An AI-Powered Financial Literacy Assistant 
+# FinMentor: An AI-Powered Financial Literacy Assistant 
 
 [![IBM Watsonx.ai](https://img.shields.io/badge/Powered%20by-IBM%20Watsonx.ai-blue)](https://www.ibm.com/products/watsonx-ai)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
