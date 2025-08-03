@@ -1,6 +1,6 @@
 # FinMentor: An AI-Powered Financial Literacy Assistant 
 
-[![IBM Watsonx.ai](https://img.shields.io/badge/Powered%20by-IBM%20Watsonx.ai-blue)](https://www.ibm.com/products/watsonx-ai)
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 An intelligent AI assistant created to help users safely navigate the world of digital finance. Built using IBM Watsonx.ai and powered by Retrieval-Augmented Generation (RAG), this smart agent delivers multilingual support and offers reliable, easy-to-follow insights on key financial topics such as UPI, interest rates, stock markets, personal finance, investments, loan security, fraud awareness, online scam protection, and more.
