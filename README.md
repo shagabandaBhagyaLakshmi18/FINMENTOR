@@ -1,85 +1,79 @@
-#An AI-powered assistant designed to help users understand and navigate digital finance safely. Built using IBM Watsonx.ai and Retrieval-Augmented Generation (RAG), this intelligent agent provides multilingual support and trustworthy guidance on UPI, interest rates, stock market, personal finance, investing , loan safety, fraud prevention, online scams and more.
+# Digital Financial Literacy AI Agent
 
-🗯️PROBLEM STATEMENT
+[![IBM Watsonx.ai](https://img.shields.io/badge/Powered%20by-IBM%20Watsonx.ai-blue)](https://www.ibm.com/products/watsonx-ai)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+An AI-powered assistant designed to help users understand and navigate digital finance safely. Built using IBM Watsonx.ai and Retrieval-Augmented Generation (RAG), this intelligent agent provides multilingual support and trustworthy guidance on UPI, interest rates, stock market, personal finance, investing, loan safety, fraud prevention, online scams and more.
+
+## 🗯️ Problem Statement
 
 Many individuals, especially from rural or digitally underserved areas, lack financial literacy. They struggle with understanding UPI, online scams, interest rates, or personal budgeting. This can lead to fraud, poor money management, or digital exclusion.
 
-💡PROPOSED SOLUTION
+## 💡 Proposed Solution
 
-An Al agent trained using IBM Watsonx.ai that delivers reliable, document-based answers about digital finance. With multilingual support and document retrieval (RAG), it ensures users receive grounded, easy-to-understand financial guidance.
+An AI agent trained using IBM Watsonx.ai that delivers reliable, document-based answers about digital finance. With multilingual support and document retrieval (RAG), it ensures users receive grounded, easy-to-understand financial guidance.
 
-🌐TECHNOLOGIES USED
+## 🌐 Technologies Used
 
-IBM Watsonx.al Studio
-IBM Granite Foundation Model (LLM)
-NLP (Natural Language Processing)
-IBM Cloud Object Storage 
+- IBM Watsonx.ai Studio
+- IBM Granite Foundation Model (LLM)
+- NLP (Natural Language Processing)
+- IBM Cloud Object Storage
 
-☁️IBM CLOUD SERVICES USED
+## ☁️ IBM Cloud Services Used
 
-Watsonx.ai Studio
-IBM Granite Model
-IBM Cloud Lite Account
+- Watsonx.ai Studio
+- IBM Granite Model
+- IBM Cloud Lite Account
+- Watsonx Vector Index
+- IBM Cloud IAM
 
+## 👥 End Users
 
-👥END USERS
-General public seeking financial clarity
-Rural and semi-urban citizens
-Students and young professionals
-First-time UPI and digital banking users
-NGOs and government outreach programs
-Customer service centers
-Self-Help Groups / Women's Collectives
-Educators/Institutions
+- General public seeking financial clarity
+- Rural and semi-urban citizens
+- Students and young professionals
+- First-time UPI and digital banking users
+- NGOs and government outreach programs
+- Customer service centers
+- Self-Help Groups / Women's Collectives
+- Educators/Institutions
 
+## ★ WOW Factors
 
-★ WOW FACTORS
+- Built entirely on IBM Cloud using Watsonx tools
+- Handles unrelated questions with polite redirection
+- Future-ready with multilingual support
+- Educates users on scams, interest rates, budgeting, stock market, UPI, and more
+- Provides safe and personalized financial guidance
 
-Built entirely on IBM Cloud using Watsonx tools
-Handles unrelated questions with polite redirection
-Future-ready with multilingual support
-Educates users on scams, interest rates, budgeting, stock market, UPI, and more
-Provides safe and personalized financial guidance
+## 🔑 Key Features
 
+- Document-based Q&A via Vector Index
+- Powered by IBM Granite LLM for natural language understanding
+- Built-in NLP support
+- Responds gracefully to off-topic/irrelated questions
+- Covers real financial concerns (scams, loans, savings, UPI, etc.)
 
-🔑KEY FEATURES
+## 🚀 Future Scope
 
-Document-based Q&A via Vector Index
-Powered by IBM Granite LLM for natural language understanding
-Built-in NLP support
-Responds gracefully to off-topic/irrelated questions
-Covers real financial concerns (scams, loans, savings UPI, etc.)
+- WhatsApp or mobile app integration
+- Speech-to-text input for voice-driven queries
+- Automatic monthly report generation
+- Region-specific financial policy updates
+- Multilingual expansion with Watson Language Translator
 
-FUTURE SCOPE
-WhatsApp or mobile app integration
-Speech-to-text input for voice-driven queries
-Automatic monthly report generation
-Region-specific financial policy updates
-Multilingual expansion with Watson Language Translator
+## 🔗 Useful Links
 
-LICENSE
-This project is Licensed under the MIT License
+- [IBM Cloud Lite](https://cloud.ibm.com)
+- [IBM Watsonx.ai](https://www.ibm.com/products/watsonx-ai)
+- [RBI Official Website](https://www.rbi.org.in)
+- [IBM SkillsBuild](https://skillsbuild.org)
 
+## 📜 License
 
-# Digital Financial Literacy AI Agent  
-[![IBM Watsonx.ai](https://img.shields.io/badge/Powered%20by-IBM%20Watsonx.ai-blue)](https://www.ibm.com/products/watsonx-ai)  
+This project is licensed under the MIT Licens
 
-An AI-powered assistant built with IBM Watsonx.ai to provide trustworthy, multilingual financial guidance using Retrieval-Augmented Generation (RAG).  
+---
 
-## Key Features  
-- Answers questions about UPI, scams, loans, and budgeting using RBI/NPCI documents.  
-- Polite redirection for off-topic queries.  
-- Future-ready: Supports multilingual expansion and voice input.  
-
-## Technologies  
-- **IBM Watsonx.ai Studio**  
-- **IBM Granite LLM**  
-- **Vector Index (RAG)**  
-- **NLP**  
-
-## How to Deploy  
-1. Log in to [IBM Cloud Lite](https://cloud.ibm.com).  
-2. Upload financial PDFs to a Vector Index in Watsonx.ai.  
-3. Configure the agent’s instructions (see [Deployment Guide](/docs/deployment.md)).  
-
-[Explore Full Documentation](/docs) | [License](/LICENSE)  
+ Created during the IBM SkillsBuild collabf Internship 2025 by Shagabanda Bhagya Lakshmi] 
