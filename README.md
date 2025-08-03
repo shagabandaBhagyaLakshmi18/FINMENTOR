@@ -64,13 +64,6 @@ An AI agent trained using IBM Watsonx.ai that delivers reliable, document-based 
 - Region-specific financial policy updates
 - Multilingual expansion with Watson Language Translator
 
-##Future roadmap
-
-graph LR
-A[Current] --> B[Voice Interface]
-A --> C[WhatsApp Integration]
-B --> D[Regional Language Support]
-C --> E[Automated Alerts]
 
 ## 🔗 Useful Links
 
@@ -85,4 +78,4 @@ This project is licensed under the MIT Licens
 
 ---
 
- Created during the IBM SkillsBuild in collabration  with  EDUNET FOUNDATION Internship 2025 by Shagabanda Bhagya Lakshmi
+ Created during the IBM SkillsBuild Internship 2025 in collaboration with EDUNET Foundation by Shagabanda Bhagya Lakshmi.
