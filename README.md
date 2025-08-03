@@ -1,4 +1,4 @@
-# Digital Financial Literacy AI Agent
+# FinMentor_An AI-Powered Financial Literacy Assistant 
 
 [![IBM Watsonx.ai](https://img.shields.io/badge/Powered%20by-IBM%20Watsonx.ai-blue)](https://www.ibm.com/products/watsonx-ai)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -63,6 +63,11 @@ An AI agent trained using IBM Watsonx.ai that delivers reliable, document-based 
 - Automatic monthly report generation
 - Region-specific financial policy updates
 - Multilingual expansion with Watson Language Translator
+graph LR
+A[Current] --> B[Voice Interface]
+A --> C[WhatsApp Integration]
+B --> D[Regional Language Support]
+C --> E[Automated Alerts]
 
 ## 🔗 Useful Links
 
@@ -77,4 +82,4 @@ This project is licensed under the MIT Licens
 
 ---
 
- Created during the IBM SkillsBuild in collaboration  with  EDUNET FOUNDATION Internship 2025 by Shagabanda Bhagya Lakshmi
+ Created during the IBM SkillsBuild in collabration  with  EDUNET FOUNDATION Internship 2025 by Shagabanda Bhagya Lakshmi
