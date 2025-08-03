@@ -3,11 +3,12 @@
 [![IBM Watsonx.ai](https://img.shields.io/badge/Powered%20by-IBM%20Watsonx.ai-blue)](https://www.ibm.com/products/watsonx-ai)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-An AI-powered assistant designed to help users understand and navigate digital finance safely. Built using IBM Watsonx.ai and Retrieval-Augmented Generation (RAG), this intelligent agent provides multilingual support and trustworthy guidance on UPI, interest rates, stock market, personal finance, investing, loan safety, fraud prevention, online scams and more.
+An intelligent AI assistant created to help users safely navigate the world of digital finance. Built using IBM Watsonx.ai and powered by Retrieval-Augmented Generation (RAG), this smart agent delivers multilingual support and offers reliable, easy-to-follow insights on key financial topics such as UPI, interest rates, stock markets, personal finance, investments, loan security, fraud awareness, online scam protection, and more.
 
 ## 🗯️ Problem Statement
 
-Many individuals, especially from rural or digitally underserved areas, lack financial literacy. They struggle with understanding UPI, online scams, interest rates, or personal budgeting. This can lead to fraud, poor money management, or digital exclusion.
+Financial literacy remains a major challenge, especially in rural and digitally underserved communities. Many individuals struggle to understand essential financial concepts such as UPI, interest rates, online scams, and personal budgeting. This lack of awareness can lead to fraud, poor financial decisions, and exclusion from digital financial services.
+
 
 ## 💡 Proposed Solution
 
@@ -76,4 +77,4 @@ This project is licensed under the MIT Licens
 
 ---
 
- Created during the IBM SkillsBuild collabf Internship 2025 by Shagabanda Bhagya Lakshmi] 
+ Created during the IBM SkillsBuild in collaboration  with  EDUNET FOUNDATION Internship 2025 by Shagabanda Bhagya Lakshmi
