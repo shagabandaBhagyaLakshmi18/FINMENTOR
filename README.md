@@ -59,3 +59,27 @@ Multilingual expansion with Watson Language Translator
 
 LICENSE
 This project is Licensed under the MIT License
+
+
+# Digital Financial Literacy AI Agent  
+[![IBM Watsonx.ai](https://img.shields.io/badge/Powered%20by-IBM%20Watsonx.ai-blue)](https://www.ibm.com/products/watsonx-ai)  
+
+An AI-powered assistant built with IBM Watsonx.ai to provide trustworthy, multilingual financial guidance using Retrieval-Augmented Generation (RAG).  
+
+## Key Features  
+- Answers questions about UPI, scams, loans, and budgeting using RBI/NPCI documents.  
+- Polite redirection for off-topic queries.  
+- Future-ready: Supports multilingual expansion and voice input.  
+
+## Technologies  
+- **IBM Watsonx.ai Studio**  
+- **IBM Granite LLM**  
+- **Vector Index (RAG)**  
+- **NLP**  
+
+## How to Deploy  
+1. Log in to [IBM Cloud Lite](https://cloud.ibm.com).  
+2. Upload financial PDFs to a Vector Index in Watsonx.ai.  
+3. Configure the agent’s instructions (see [Deployment Guide](/docs/deployment.md)).  
+
+[Explore Full Documentation](/docs) | [License](/LICENSE)  
